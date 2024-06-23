@@ -1,0 +1,61 @@
+.body {
+    color: rgb(229, 233, 237);
+    text-align: center;
+    border: 5px solid rgba(236, 167, 6, 0.938);
+    border-radius: 15px;
+    box-shadow: 15px 13px rgb(66, 63, 63) ;
+    background-color: rgb(43, 36, 37);
+    margin-left: 250px;
+    margin-right: 250px;
+    padding: 10px 5px;
+
+}
+
+h3 {
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+h1 {
+    font-size: 50px;
+    border-radius: 15px;
+    box-shadow: 10px 5px 20px rgb(40, 239, 14);
+    box-shadow: 🌟 ;
+}
+.start {
+    align-items: center;
+    background-color: rgb(86, 221, 19);
+    box-shadow: 5px 5px black;
+    color: aliceblue;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 300px;
+    font-size: 30px;
+    border-radius: 10px;
+
+
+}
+
+.stop {
+    cursor: pointer;
+    color: rgba(240, 2, 50, 0.929);
+    background-color: rgb(237, 210, 5);
+    box-shadow: 5px 4px rgb(32, 33, 1);
+    border-radius: 10px;
+  margin-left: 100px;
+  align-items: center;
+  font-size: 30px;
+}
+
+.reset {
+    cursor: pointer;
+    align-items: center;
+    color: aliceblue;
+    margin-left: 100px;
+    background-color: rgb(244, 10, 14);
+    box-shadow: 5px 4px rgb(71, 18, 1);
+    border-radius: 10px;
+  align-items: center;
+  font-size: 30px;
+
+}
